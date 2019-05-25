@@ -10,6 +10,7 @@ public class BootSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootSecurityApplication.class, args);
+		//add some comments to test git on sts
 	}
 
 }
